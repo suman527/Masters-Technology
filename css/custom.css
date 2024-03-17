@@ -332,7 +332,7 @@ i {
     z-index: 0; }
   #homeSection .owl-dots {
     display: none; }
-  #homeSection .owl-nav {
+/*   #homeSection .owl-nav {
     display: block;
     position: absolute;
     top: 90%;
@@ -349,7 +349,7 @@ i {
       transition: .4s; }
     #homeSection .owl-nav button:hover {
       background: #fb383b;
-      color: #fff; }
+      color: #fff; } */
     #homeSection .owl-nav .owl-prev {
       margin-bottom: 15px; }
       #homeSection .owl-nav .owl-prev span {
