@@ -390,7 +390,7 @@ i {
     margin-bottom: 30px; }
   #featureSection .sec-header p {
     color: #666;
-    font-family: 'Rubik', sans-serif;
+    font-family: "Gill Sans Extrabold", sans-serif;
     font-size: 14px;
     margin-bottom: 0; }
   #featureSection .img-box {
@@ -431,7 +431,7 @@ i {
         list-style: none;
         margin-bottom: 10px;
         color: #666;
-        font-family: 'Rubik', sans-serif;
+        font-family: "Goudy Bookletter 1911", sans-serif;
         font-size: 14px; }
         #featureSection .part2 ul li .fal {
           margin-right: 10px;
@@ -486,10 +486,12 @@ i {
     #serviceSection .service-box .txt-area h3 {
       color: #9ca3a94d;
       margin-bottom: 50px;
+      font-family: Arial;
       transition: .4s; }
     #serviceSection .service-box .txt-area h4 {
       color: #9ca3a9;
       margin-bottom: 0;
+      font-family: "Source Sans Pro", "Arial", sans-serif;
       font-size: 20px;
       transition: .4s; }
     #serviceSection .service-box .img-box {
@@ -728,14 +730,16 @@ i {
       position: relative;
       transform: translateY(-30px);
       border-radius: 10px;
-      padding: 20px;
+      padding: 15px;
       padding-right: 80px;
-      width: 85%;
+      width: 80%;
+      height: 80%;
       margin: auto; }
       #specialFeature .service-box .txt-box h4 {
-        color: #fff; 
-      margin-left: 80px;}
-     
+        color: #fff;
+        font-size: 100%; 
+        font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+      margin-left: 60px;}
     #specialFeature .service-box .font-btn {
       margin-top: -15px; }
   #specialFeature .service-box:hover img {
@@ -886,7 +890,7 @@ i {
     #testimonialSection .testimonial-box .feedback {
       color: #666;
       margin-top: 30px;
-      font-family: 'Rubik', sans-serif;
+      font-family: Helvetica;
       font-size: 16px;
       line-height: 2;
       margin-bottom: 0;
