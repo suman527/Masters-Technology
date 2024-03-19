@@ -386,6 +386,7 @@ i {
       color: #fb383b; }
   #featureSection .sec-header h4 {
     color: #fb383b;
+    font-family: Helvetica;
     margin-bottom: 30px; }
   #featureSection .sec-header p {
     color: #666;
@@ -652,6 +653,7 @@ i {
   #pricingSection .pricing-box {
     background: #1d1e22;
     padding: 40px 40px 30px 40px;
+    font-family: Helvetica;
     margin: 15px 0;
     border-radius: 10px;
     text-align: center;
@@ -722,19 +724,18 @@ i {
         filter: grayscale(100%);
         transition: .4s; }
     #specialFeature .service-box .txt-box {
-      background: #222429;
+      background: #16213e;
       position: relative;
       transform: translateY(-30px);
       border-radius: 10px;
       padding: 20px;
-      padding-right: 65px;
+      padding-right: 80px;
       width: 85%;
       margin: auto; }
       #specialFeature .service-box .txt-box h4 {
-        color: #fff; }
-      #specialFeature .service-box .txt-box p {
-        color: #9ca3a9;
-        margin-bottom: 0; }
+        color: #fff; 
+      margin-left: 80px;}
+     
     #specialFeature .service-box .font-btn {
       margin-top: -15px; }
   #specialFeature .service-box:hover img {
