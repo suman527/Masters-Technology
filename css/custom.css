@@ -386,12 +386,12 @@ i {
       color: #fb383b; }
   #featureSection .sec-header h4 {
     color: #fb383b;
-    font-family: Helvetica;
+    font-family: Helvetica, Arial, sans-serif;
     margin-bottom: 30px; }
   #featureSection .sec-header p {
     color: #666;
     font-family: "Gill Sans Extrabold", sans-serif;
-    font-size: 14px;
+    font-size: 17px;
     margin-bottom: 0; }
   #featureSection .img-box {
     position: relative; }
@@ -491,7 +491,6 @@ i {
     #serviceSection .service-box .txt-area h4 {
       color: #9ca3a9;
       margin-bottom: 0;
-      font-family: "Source Sans Pro", "Arial", sans-serif;
       font-size: 20px;
       transition: .4s; }
     #serviceSection .service-box .img-box {
